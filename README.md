@@ -1,4 +1,8 @@
 # Plagiarism-Checker-Application
+
+Similarity score: 0.2763
+The texts are not similar
+
 A plagiarism checker application! That's a great idea
 
 Here's a high-level overview of how we can approach this project:
