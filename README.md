@@ -15,3 +15,8 @@ Database of Sources: A database of existing texts, articles, and sources to comp
 Similarity Algorithm: An algorithm to measure the similarity between the input text and the sources in the database.
 Plagiarism Detection: A module to analyze the similarity scores and determine if the input text contains plagiarized content.
 Reporting: A user interface to display the plagiarism report, including the percentage of plagiarized content and the sources of the plagiarized text
+
+
+Implementation:
+
+To implement the plagiarism checker application, we can use a programming language like Python or Java. We can use libraries like NLTK, spaCy, or Stanford CoreNLP for text preprocessing and similarity algorithms.
